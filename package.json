@@ -6,7 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["react"],
+  "keywords": [
+    "react"
+  ],
   "author": "swyx",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sw-yx/papyrus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sw-yx/papyrus/issues"
+  },
+  "homepage": "https://github.com/sw-yx/papyrus#readme"
 }
